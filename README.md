@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Welcome, You are my![Visitor Count](https://profile-counter.glitch.me/kakapreter/count.svg)visitor, Thank You!🎉🎉
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakapreter&layout=compact&theme=tokyonight)![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakapreter&show_icons=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kakapreter&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakapreter&theme=dark&layout=compact)
