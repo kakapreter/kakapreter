@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ## This is my algorithm question website! <a href="http://lenmanxv.xyz/projects/mypro-03/index.html" target="_blank">算法分类整理</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakapreter&hide=prs&line_height=24px&theme=tokyonight&text_bold=false)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakapreter&theme=tokyonight&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakapreter&hide=prs&line_height=24px&theme=graywhite&text_bold=false)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakapreter&theme=graywhite&layout=compact)
