@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 Welcome!!!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakapreter&hide=prs&line_height=24px&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakapreter&hide=prs&line_height=24px&theme=tokyonight&text_bold=false)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakapreter&theme=tokyonight&layout=compact)
