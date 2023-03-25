@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome, You are my![Visitor Count](https://profile-counter.glitch.me/kakapreter/count.svg)visitor, Thank You!🎉🎉
+Welcome!!!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kakapreter&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakapreter&theme=dark&layout=compact)
