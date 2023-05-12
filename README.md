@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Welcome!!!
 
-## This is my algorithm question website! <a href="http://lenmanxv.xyz/projects/mypro-03/index.html" target="_blank">算法分类整理</a>
+
 ## This is my algorithm document！<a href="https://kakapreter.gitbook.io/structure/data_structure/introduction" target="_blank">算法文档</a>
 
 
