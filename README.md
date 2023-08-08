@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 # Welcome!!!
 
 ## 导航站：<a href="http://lenmanxv.xyz" target="_blank">http://lenmanxv.xyz</a>
+<!--
 ## 博客站：<a href="http://lenmanxv.top" target="_blank">http://lenmanxv.top</a>
-
+-->
 ## This is my algorithm document！<a href="https://kakapreter.gitbook.io/structure/data_structure/introduction" target="_blank">算法文档</a>
 ### LeetCode刷题：<a href="http://lenmanxv.xyz/projs/pro01/leetcode.html" target="_blank">LeetCode算法分类整理</a>
 
