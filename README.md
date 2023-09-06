@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Welcome!!!
 
-## 导航站：<a href="http://lenmanxv.xyz" target="_blank">http://lenmanxv.xyz</a>
+## nav：<a href="http://lenmanxv.xyz" target="_blank">http://lenmanxv.xyz</a>
 <!--
 ## 博客站：<a href="http://lenmanxv.top" target="_blank">http://lenmanxv.top</a>
 -->
