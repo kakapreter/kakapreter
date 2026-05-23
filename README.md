@@ -36,12 +36,10 @@ This is my algorithm document！
   <tr>
     <td width="20%">
       <!-- 这里放作者的头像或名字 -->
-      <a href="https://github.com/kakapreter">kakapreter</a>
+      <a href="https://github.com/kakapreter" target="_blank">kakapreter</a>
     </td>
     <td width="40%">
-      <a href="https://github.com/kakapreter/web-code-ide">
-        web-code-ide
-      </a>
+      <a href="https://github.com/kakapreter/web-code-ide" target="_blank">web-code-ide</a>
     </td>
     <td width="40%">
       <!-- 这里写项目的作用介绍 -->
