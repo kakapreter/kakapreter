@@ -40,7 +40,7 @@ This is my algorithm document！
     </td>
     <td width="40%">
       <a href="https://github.com/kakapreter/web-code-ide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kakapreter&repo=web-code-ide&theme=radical" />web-code-ide
+        web-code-ide
       </a>
     </td>
     <td width="40%">
