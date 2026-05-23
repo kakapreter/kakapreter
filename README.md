@@ -35,30 +35,26 @@ This is my algorithm document！
   <!-- 👇 第一行项目 -->
   <tr>
     <td width="20%">
-      <!-- 这里放作者的头像或名字 -->
       <a href="https://github.com/kakapreter" target="_blank">kakapreter</a>
     </td>
     <td width="40%">
       <a href="https://github.com/kakapreter/web-code-ide" target="_blank">web-code-ide</a>
     </td>
     <td width="40%">
-      <!-- 这里写项目的作用介绍 -->
-      这是一个基于 Vue3 的前端后台管理系统模板，集成了常用的权限管理功能。
     </td>
   </tr>
 
   <!-- 👇 第二行项目 -->
   <tr>
     <td width="20%">
-      <a href="https://github.com/你的用户名">你的用户名</a>
+      <a href="https://github.com/ModOrganizer2">ModOrganizer2</a>
     </td>
     <td width="40%">
-      <a href="https://github.com/你的用户名/项目B">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目B" />
-      </a>
+      <a href="https://github.com/ModOrganizer2/modorganizer">Mod Organizer</a>
     </td>
     <td width="40%">
-      一个轻量级的 Python 爬虫脚本，用于自动化抓取每日热点新闻并推送到微信。
     </td>
+
+    
   </tr>
 </table>
