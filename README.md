@@ -29,7 +29,7 @@ This is my algorithm document！
   <tr>
     <th width="10%">分类</th>
     <th width="10%">作者</th>
-    <th width="40%">列表</th>
+    <th width="40%">项目</th>
     <th width="40%">作用</th>
   </tr>
   
