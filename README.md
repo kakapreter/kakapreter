@@ -94,6 +94,21 @@ This is my algorithm document！
     </td>
   </tr>
 
+  <tr>
+    <td width="10%">
+      优化
+    </td>
+    <td width="10%">
+      <a href="https://github.com/mifi">mifi</a>
+    </td>
+    <td width="40%">
+      <a href="https://github.com/mifi/lossless-cut">lossless-cut</a>
+    </td>
+    <td width="40%">
+     Lossless-Cut是一款跨平台的FFmpeg GUI，支持无损修剪和剪切视频、音频、字幕等媒体文件。它可以快速提取视频中的好部分，无需重新编码，降低质量。
+    </td>
+  </tr>
+
 
 
   
