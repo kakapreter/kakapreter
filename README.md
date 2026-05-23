@@ -29,3 +29,33 @@ This is my algorithm document！
 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kakapreter&repo=web-code-ide)](https://github.com/kakapreter/web-code-ide)
+
+
+<table>
+  <!-- 第一行 -->
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kakapreter/web-code-ide">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kakapreter&repo=web-code-ide&theme=radical" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/你的用户名/项目B">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目B&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <!-- 第二行 -->
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/你的用户名/项目C">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目C&theme=vue" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/你的用户名/项目D">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目D&theme=blue-green" />
+      </a>
+    </td>
+  </tr>
+</table>
