@@ -108,7 +108,21 @@ This is my algorithm document！
      Lossless-Cut是一款跨平台的FFmpeg GUI，支持无损修剪和剪切视频、音频、字幕等媒体文件。它可以快速提取视频中的好部分，无需重新编码，降低质量。
     </td>
   </tr>
-
+  
+  <tr>
+    <td width="10%">
+      软件
+    </td>
+    <td width="10%">
+      <a href="https://github.com/zhongyang219">zhongyang219</a>
+    </td>
+    <td width="40%">
+      <a href="https://github.com/zhongyang219/MusicPlayer2">MusicPlayer2</a>
+    </td>
+    <td width="40%">
+     MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BASS和FFMpeg）。播放器支持大部分常见的音频格式。
+    </td>
+  </tr>
 
 
   
