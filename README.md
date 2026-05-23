@@ -27,14 +27,18 @@ This is my algorithm document！
 <table>
   <!-- 👇 表头 -->
   <tr>
-    <th width="20%">项目作者</th>
+    <th width="10%">项目分类</th>
+    <th width="10%">项目作者</th>
     <th width="40%">项目列表</th>
     <th width="40%">项目作用</th>
   </tr>
   
   <!-- 👇 第一行项目 -->
   <tr>
-    <td width="20%">
+    <td width="100%">
+      游戏
+    </td>
+    <td width="10%">
       <a href="https://github.com/kakapreter" target="_blank">kakapreter</a>
     </td>
     <td width="40%">
