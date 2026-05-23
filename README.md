@@ -53,6 +53,7 @@ This is my algorithm document！
       <a href="https://github.com/ModOrganizer2/modorganizer">Mod Organizer</a>
     </td>
     <td width="40%">
+      《Nexus Mod Manager》是一款补丁管理软件，它集合了来自N网上的所有补丁内容，能够让你第一时间掌握最新的补丁软件资讯。软件免费、无广告、开源。
     </td>
 
     
