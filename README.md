@@ -28,5 +28,4 @@ This is my algorithm document！
 ## <a href="https://kakapreter.gitbook.io/structure/data_structure/introduction" target="_blank">https://kakapreter.gitbook.io/structure/data_structure/introduction</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakapreter&hide=prs&line_height=24px&theme=graywhite&text_bold=false)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakapreter&theme=graywhite&layout=compact)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kakapreter&repo=web-code-ide)](https://github.com/kakapreter/web-code-ide)
