@@ -62,7 +62,23 @@ This is my algorithm document！
     <td width="40%">
      Mod Organizer是一款补丁管理软件，它集合了来自N网上的所有补丁内容，能够让你第一时间掌握最新的补丁软件资讯。软件免费、无广告、开源。
     </td>
-
-    
   </tr>
+  
+  <tr>
+    <td width="10%">
+      游戏
+    </td>
+    <td width="10%">
+      <a href="https://github.com/abbodi1406">abbodi1406</a>
+    </td>
+    <td width="40%">
+      <a href="https://github.com/abbodi1406/vcredist">vcredist</a>
+    </td>
+    <td width="40%">
+     vcredist 是微软官方推出的“Visual C++ 可再发行组件包”。它本质上是一组基础的动态链接库（DLL）文件集合（如 msvcp140.dll、vcruntime140.dll 等），相当于 Windows 系统中许多软件和游戏赖以生存的“基础零件包”。
+    </td>
+  </tr>
+
+
+  
 </table>
