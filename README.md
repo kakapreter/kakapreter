@@ -79,6 +79,22 @@ This is my algorithm document！
     </td>
   </tr>
 
+  <tr>
+    <td width="10%">
+      优化
+    </td>
+    <td width="10%">
+      <a href="https://github.com/qarmin">qarmin</a>
+    </td>
+    <td width="40%">
+      <a href="https://github.com/qarmin/czkawka">czkawka</a>
+    </td>
+    <td width="40%">
+     Czkawka是一款免费开源的跨平台工具，用于查找并删除重复文件、空文件夹、大文件等。它用Rust编写，速度快且安全，支持CLI和GUI前端，多语言界面。
+    </td>
+  </tr>
+
+
 
   
 </table>
