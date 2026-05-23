@@ -27,10 +27,10 @@ This is my algorithm document！
 <table>
   <!-- 👇 表头 -->
   <tr>
-    <th width="10%">项目分类</th>
-    <th width="10%">项目作者</th>
-    <th width="40%">项目列表</th>
-    <th width="40%">项目作用</th>
+    <th width="10%">分类</th>
+    <th width="10%">作者</th>
+    <th width="40%">列表</th>
+    <th width="40%">作用</th>
   </tr>
   
   <!-- 👇 第一行项目 -->
