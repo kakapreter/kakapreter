@@ -96,7 +96,7 @@ This is my algorithm document！
 
   <tr>
     <td width="10%">
-      优化
+      设计
     </td>
     <td width="10%">
       <a href="https://github.com/mifi">mifi</a>
