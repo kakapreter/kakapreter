@@ -36,7 +36,7 @@ This is my algorithm document！
   <!-- 👇 第一行项目 -->
   <tr>
     <td width="100%">
-      游戏
+      编程
     </td>
     <td width="10%">
       <a href="https://github.com/kakapreter" target="_blank">kakapreter</a>
@@ -50,7 +50,10 @@ This is my algorithm document！
 
   <!-- 👇 第二行项目 -->
   <tr>
-    <td width="20%">
+    <td width="10%">
+      游戏
+    </td>
+    <td width="10%">
       <a href="https://github.com/ModOrganizer2">ModOrganizer2</a>
     </td>
     <td width="40%">
