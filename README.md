@@ -35,7 +35,7 @@ This is my algorithm document！
   
   <!-- 👇 第一行项目 -->
   <tr>
-    <td width="100%">
+    <td width="10%">
       编程
     </td>
     <td width="10%">
